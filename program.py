@@ -1,7 +1,7 @@
 name = "Abhey"
 age = 18
 address = "Hedon"
-old = False
+old = False #Boolean
 a = None;
 # print("Hello World")
 # print(23+15)
